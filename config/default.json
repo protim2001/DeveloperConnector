@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://protim1234:protim1234@devconnector.xzrwm.mongodb.net/DevConnector?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://protim1234:protim1234@devconnector.xzrwm.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }

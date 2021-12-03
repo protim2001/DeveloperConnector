@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://protim1234:protim1234@devconnector.xzrwm.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"f39336320139093253ad",
+    "githubSecret":"6b121c0d65c5e5e6c8be6131d5a3196d92e28a91"
+}
